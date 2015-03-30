@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guessme</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hide">\u0023</string>
+    <string name="new_game">Play again!</string>
+    <string name="name">by massimo penzo</string>
+</resources>
